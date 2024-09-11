@@ -4083,7 +4083,7 @@ S:There's no obfuscated Perl contest because it's pointless.
 
 *:SCRIPT_23
 I:[23] Larry Wall
-S:A Perl program is correct if it gets the job done before your boss fire you.
+S:A Perl program is correct if it gets the job done before your boss fires you.
 
 *:SCRIPT_24
 I:[24] Brian Hook, about Perl
