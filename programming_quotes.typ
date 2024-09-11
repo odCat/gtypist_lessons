@@ -4136,7 +4136,7 @@ S:The problem with object-oriented languages is that they've got all this
 *:OOP_5
 I:[5] Anonymous
 S:The great thing about Object-Oriented code is that it can make small,
- :simple problems look like a large, complex ones.
+ :simple problems look like large, complex ones.
 
 *:OOP_6
 I:[6] Lasse Petersen
