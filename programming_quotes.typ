@@ -3677,7 +3677,7 @@ S:A C program is like a fast dance on a newly waxed dance floor by people
 *:C_7
 I:[7] Ron Sercely.
 S:The evolution of languages: Fortran is a non-typed language.  C is a weakly
- :typed language.  Ada is a strongly typed language.  C++ is a strongly hyped
+ :typed language.  Ada is a strongly typed language.  C++ is a strongly typed
  :language.
 
 *:C_8
